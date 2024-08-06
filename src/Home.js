@@ -10,11 +10,11 @@ const Home = () => {
     ]
     
       return (
-        <div className="m-6 p-3 rounded-xl flex flex-row">
+        <div className="m-6 p-3 rounded-xl flex flex-row gap-6 ">
         {data.map((item)=>(
-          <div>
+          <div className='shadow-lg'>
           <img
-            className="h-[160px] w-10 rounded-2xl"
+            className="h-[160px] w-72 rounded-2xl"
             src={item.image}
             alt="dwonload_image"
           />
