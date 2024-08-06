@@ -20,8 +20,7 @@ const Home = () => {
           />
           <h2 className="font-bold text-lg"> Animal Name: Cow</h2>
           <h4 className="text-sm">Species: Rare </h4>
-          <div className="bg-LightGreen h-8 rounded-lg w-14 mt-2 text-Secondry flex justify-center items-center text-sm">
-            <i class="fa-solid fa-star p-1"></i>
+          <div className="bg-LightGreen rounded-lg w-32 mt-2 text-Secondry flex justify-center items-center text-sm">
             Found: Tamil Naidu
           </div>
   
