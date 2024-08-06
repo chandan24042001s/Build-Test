@@ -23,8 +23,6 @@ const Home = () => {
           <div className="bg-LightGreen rounded-lg w-32 mt-2 text-Secondry flex justify-center items-center text-sm">
             Found: Tamil Naidu
           </div>
-  
-          
         </div>
         ))}
         
